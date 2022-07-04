@@ -1,9 +1,7 @@
-![alt hydro1](https://i.imgur.com/cijp1Xl.png)
-![alt hydro1](https://i.imgur.com/bfyYQRn.png)
-![alt hydro1](https://i.imgur.com/vOO2Zrq.png)
 
-# AskMate
-AskMate is a web application similar to the popular 'Stack Overflow' website.
+
+# Query assistant
+Query assistant is a web application similar to the popular 'Stack Overflow' website.
 
 As a user you can ask a question, edit or delete your question. 
 You can browse through all questions and leave a comment.
