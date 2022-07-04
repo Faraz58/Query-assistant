@@ -13,10 +13,6 @@ If you are logged in your activity stats are being kept.
 - PostgreSQL
 - HTML, CSS
 
-## Status
-
-Early Aplha;)
-
 ## Getting Started
 
 - Clone the repository using the command `git https://github.com/MaciejBiernat/AskMate.git`.
